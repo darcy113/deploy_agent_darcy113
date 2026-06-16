@@ -24,4 +24,4 @@ The script will:
 
 1. Create attendance_tracker_<name>_archive.tar.gz
 2. Remove the incomplete project directory
-3. Exit safely
+3. Exit 
